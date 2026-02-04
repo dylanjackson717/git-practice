@@ -1,3 +1,4 @@
 "I am learning Git."
 "Git is like a time machine"
 "The connection is alive! I am now a GitHub contributor."
+"testing a lazy comment"
