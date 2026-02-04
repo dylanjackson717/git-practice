@@ -1,0 +1,3 @@
+"Save Points: Git lets me save "versions" of my work so I can go back if I mess something up."
+"Cloud Storage: GitHub is like a Google Drive for my code, making it safe and easy for others to see."
+"Track History: Commit messages tell the "story" of my project so I can remember what I changed and why."
