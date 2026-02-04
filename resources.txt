@@ -1,3 +1,4 @@
 "The "Daily 3" Workflow: This is the fundamental cycle for saving work locally and syncing it to the cloud to ensure no code is ever lost."
 "Git Restore: This command acts as a "safety net," allowing you to undo uncommitted mistakes and return a file to its last saved state."
 "GitHub CLI: This command-line tool simplifies the process of connecting local projects to GitHub and managing repositories without leaving the terminal."
+"DNS Flushing: This tool clears the terminal's "memory" of internet addresses, which is essential for fixing connection errors when pushing code to GitHub. This helped incredibly when my it wasnt wanting to connect up to GitHub."
