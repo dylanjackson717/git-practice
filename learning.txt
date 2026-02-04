@@ -1,1 +1,2 @@
 "I am learning Git."
+"Git is like a time machine"
